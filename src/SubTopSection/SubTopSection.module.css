@@ -1,0 +1,21 @@
+.SubContainer{
+    width: 100vw;
+    height: 5vh;
+    border: 2px solid gray;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: rgba(128, 128, 128, 0.725);
+}
+.btn{
+    padding: 5px;
+    background-color: orange;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    color: whitesmoke;
+    font-weight: 700;
+    cursor: pointer;
+}

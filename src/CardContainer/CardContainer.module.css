@@ -1,0 +1,11 @@
+.mainContainer{
+    width: 100vw;
+    min-height: calc(100vh - 11vh);
+    background-color:rgba(128, 128, 128, 0.484);
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 20px;
+    gap: 30px;
+}
