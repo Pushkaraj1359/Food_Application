@@ -33,6 +33,12 @@ const Card = (props) => {
             para : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum!",
             button : "Order Now"
         },
+        {
+            photo : "",
+            name : "six",
+            para : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum!",
+            button : "Order Now"
+        },
     ]
     return (
         <div className={styles.cardWrapper}>
